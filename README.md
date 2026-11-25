@@ -1,16 +1,20 @@
-## Hi there 👋
+# Oi, eu sou o Matheus 👋
 
-<!--
-**MatheusPazinatti/MatheusPazinatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas na UNIP, em busca de estágio em tecnologia.
+Trabalho com edição de vídeo desde 2020 e uso IA no dia a dia para estudar e construir projetos.
 
-Here are some ideas to get you started:
+## 🚀 Projeto em destaque
+**[Sistema de Gestão de Mesas](https://github.com/MatheusPazinatti/sistema-gestao-mesas)**
+PWA para restaurantes de comida por quilo e à vontade, com telas de garçom, caixa e relatório do dia.
+Feito com React, Vite e Tailwind CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Estudando agora
+- Banco de dados NoSQL
+- Python e lógica de programação
+- Git e GitHub
+
+## 🛠️ Tecnologias
+React · JavaScript · HTML · CSS · Tailwind CSS · Python · Git
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/matheus-nascimento-a70a99401/) · matheusnascimentosilva8@gmail.com
